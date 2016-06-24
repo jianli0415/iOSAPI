@@ -1,0 +1,12 @@
+//
+//  iOSAPI-Prefix.pch
+//  iOSAPI
+//
+//  Created by BJ13041603-002 on 16/6/3.
+//  Copyright © 2016年 刘建立. All rights reserved.
+//
+
+#ifndef iOSAPI_Prefix_pch
+#define iOSAPI_Prefix_pch
+
+#endif /* iOSAPI_Prefix_pch */
